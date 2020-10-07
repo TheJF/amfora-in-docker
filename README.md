@@ -5,7 +5,7 @@ Harness the power of Gemini and fuse it into whales so you can run the excellent
 ## Usage
 
 ``` shell
-docker run -it thejf/amfora-in-docker
+docker run -it thejf/amfora
 ```
 
 ## Why?
